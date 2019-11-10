@@ -11,6 +11,6 @@
 
 #### How to run this repository:
 Since there are no libraries used in the code just paste the input.txt file in the main folder and run the code 
-''' bash 
+```bash 
 python3 commands.py
-'''
+```
