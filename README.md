@@ -8,6 +8,9 @@
 5. Tell the color of the registered car with a particular registration number
 6. Keep a track on the outgoing car and also free the corrosponding slot of the car
 
+#### Project Requirements:
+Only Python3 is needed for the code to be run.
+
 
 #### How to run this repository:
 Since there are no libraries used in the code just paste the input.txt file in the main folder and run the code 
