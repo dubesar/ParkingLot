@@ -1,4 +1,8 @@
+import sys
 from main import ParkingLot
+
+sys.stdin = open('input.txt','r')
+sys.stdout = open('output.txt','w')
 
 while True:
     try:
