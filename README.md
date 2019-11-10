@@ -14,3 +14,6 @@ Since there are no libraries used in the code just paste the input.txt file in t
 ```bash 
 python3 commands.py
 ```
+#### Data Structures used: 
+1. Hash Tables
+2. Lists
