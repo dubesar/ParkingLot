@@ -17,6 +17,12 @@ Since there are no libraries used in the code just paste the input.txt file in t
 ```bash 
 python3 commands.py
 ```
+
+For running the unit test file we can write the bash code as:
+```bash
+python3 test_main.py
+```
+
 #### Data Structures used: 
 1. Hash Tables
 2. Lists
