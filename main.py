@@ -51,13 +51,13 @@ class ParkingLot:
         else:
             print('There is no car of this particular color')
     def slotNumber(self,regestration_no):        #Function showing the slot number of a particular car
-        p = 0 
+        check = 0 
         for key in self.__slots:
             if (self.__slots[key])[0] == regestration_no:
                 print(key)
-                p+=1
+                check += 1
                 break
-        if p==0:
+        if check==0:
             print('Not Found')
     def getColorSlots(self,color):            #Function showing slot numbers of a particular color
         check = 0
